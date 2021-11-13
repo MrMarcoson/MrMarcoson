@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrMarcoson Marek Kasprowicz
-- 👀 I’m interested in getting better at programing and gamedev
-- 🌱 I’m currently learning Java + FX, Python, Godot, C# for Unity Projects and Dlang
+- 👀 I’m interested in applications and microservices creation, as well as gamedev
+- 🌱 I’m currently developing my skills back and frond-end programmer in: Spring Boot and React
 - 📫 How to reach me marcopolopl1@gmail.com
 
